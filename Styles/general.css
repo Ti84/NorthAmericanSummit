@@ -1,0 +1,53 @@
+body{
+    background: url("/Images/Rocky-Mountains2.jpg") no-repeat top center fixed; /home/shanesit/public_html/Images
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    opacity:75%
+    min-height:100%
+    background: url(images/bg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif
+}
+
+#scrollelement
+{
+    background-color:white;
+    min-height:100%
+}
+
+html{
+    height:100%
+}
+
+.navbar-header {
+    float: left;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+}
+.navbar-brand {float:none;}
+
+#logo{
+    height:90px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#coverimg{
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+#tophead{
+height: 93px !important;
+padding-top: 11px !important;
+}
+
